@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Mad Cloud Creations"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Whats up yall, we be bumping and shit."
+  bio    : "Whats up yall!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
