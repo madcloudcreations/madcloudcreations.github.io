@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/profile.jpg
   actions:
     - label: "Order Now"
-      url: "/Orders"
+      url: "/orders"
 ---
 
 ## Welcome to our website
