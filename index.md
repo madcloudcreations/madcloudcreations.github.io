@@ -1,13 +1,20 @@
 ---
 title: Mad Cloud Creations
-subtitle: By Madeline Torres and Claudia Griffo
-layout: single
+layout: splash
 share: true
 related: false
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/profile.jpg
+  actions:
+    - label: "Order Now"
+      url: "/Orders"
 ---
 
-##Title
+## Welcome to our website
 
-{% include figure image_path="/assets/images/profile.png" alt="Mad Cloud" %}
+### By Madeline and Claudia
 
-Landing page
+{% include figure image_path="/assets/images/profile.jpg" alt="Mad Cloud" %}
+
+We are mt and cg
