@@ -108,6 +108,14 @@ defaults:
       layout: single
       author_profile: true
 
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
 category_archive:
   type: liquid
   path: /categories/
